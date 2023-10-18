@@ -1,4 +1,4 @@
-# ~/.vim/vimrc
+" ~/.vim/vimrc
 " :colorscheme badwolf
 
 filetype plugin indent on
