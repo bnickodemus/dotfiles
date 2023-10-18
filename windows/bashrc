@@ -1,0 +1,16 @@
+# ~/.bashrc
+alias gs='git status'
+alias gc="git diff | clip"
+alias c='clear'
+alias d='cd ~/Desktop'
+alias f='start .'
+alias la='ls -a'
+alias ll='ls -lhA'
+alias lld='ls -d .*' #dot files
+alias g='grep'
+alias make="'C:\Program Files (x86)\mingw-w64\i686-8.1.0-posix-dwarf-rt_v6-rev0\mingw32\bin\mingw32-make.exe'"
+alias bvim_path='vim ~/.vim/vimrc'
+alias np="'C:\Program Files\Notepad++\notepad++.exe'"
+alias a='~/AppData/Local/atom/atom.exe'
+alias splint="'C:\splint-3.1.1\bin\splint.exe'"
+alias node="node.exe"

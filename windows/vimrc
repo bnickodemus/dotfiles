@@ -1,0 +1,22 @@
+# ~/.vim/vimrc
+" :colorscheme badwolf
+
+filetype plugin indent on
+syntax on
+
+" Spaces and Tabs
+set softtabstop=2   " number of spaces in tab when editing
+set tabstop=2     " number of visual spaces per TAB
+set smarttab      " insert tabs at the start of a line
+set smartcase     " When searching smart about cases
+set backspace=indent,eol,start
+
+" UI
+set number      " show line numbers
+set relativenumber    " jump to specified line number
+set shiftwidth=2    " when indenting with '>', use 4 spaces
+
+set incsearch     " search as characters are entered
+set hlsearch      " highlight matches
+
+set number
